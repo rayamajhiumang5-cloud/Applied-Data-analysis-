@@ -1,6 +1,5 @@
 # Applied-Data-analysis- In class Lab2 Documentation 
 
-```markdown
 # The Illusion of Growth & the Composition Effect
 **Deflating History with FRED**
 
@@ -42,8 +41,6 @@ By constructing a reproducible Python data pipeline, this lab exposes the differ
 
 ##  Conclusion
 This lab demonstrates how misleading aggregate statistics can be without proper economic controls. By integrating inflation adjustments and fixed-composition indices, the project highlights the importance of methodological rigor when interpreting labor market data—especially during economic shocks.
-```
 
-If you want, I can also **add badges and a table of contents** so it looks even more like a polished GitHub project README.
 
-Do you want me to do that next?
+
